@@ -248,6 +248,14 @@ button:hover {
 	border: 1px solid #000;
 	padding: 12px;
 }
+.c{
+	margin-left: 35px;
+	width: 120px;
+	height: 149px;
+	margin-top: 5px;
+	border: 1px solid #000;
+	padding: 12px;
+}
 /* Project Section */
 #project {
 	height: 100vh;
@@ -284,7 +292,7 @@ button:hover {
 }
 #project1 {
 	width: 500px;
-	height: 280px;
+	height: 200px;
 	margin-top: 15px;
 	margin-bottom: 20px;
 	border: 1.5px solid #000;
@@ -293,8 +301,8 @@ button:hover {
 	float: right;
 }
 #project3{
-	width: 500px;
-	height: 280px;
+	width: 400px;
+	height: 200px;
 	margin-top: 15px;
 	margin-bottom: 20px;
 	border: 1.5px solid #000;
